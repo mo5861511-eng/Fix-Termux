@@ -6,3 +6,5 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # 2- cd Fix-Termux
 # 3- chmod +x Fix-Termux.sh
 # 4- bash Fix-Termux.sh
+https://www.facebook.com/profile.php?id
+=100037337465695
